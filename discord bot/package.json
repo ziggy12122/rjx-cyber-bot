@@ -14,6 +14,8 @@
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
     "@discordjs/rest": "^2.3.0",
-    "discord-api-types": "^0.37.83"
+    "discord-api-types": "^0.37.83",
+    "tweetnacl": "^1.0.3",
+    "raw-body": "^2.5.2"
   }
 }
